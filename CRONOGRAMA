@@ -1,39 +1,33 @@
-<USUARIO 1> 
-
+                          <USUARIO 1> 
 Como cliente, eu quero que sejam disponibilizadas diversas formas de pagamento para os planos premium.
-
 Teste de validação
-
 Dado login efetivado quando o usuario acessa a aba de pagamento então ele pode escolher entre as opções de boleto, cartão ou pix.
 
 ---------------------------------------------------
-<USUARIO 2>
+                          <USUARIO 2>
 
-como cliente, quero poder visiualizar o andamento do processo seletivo.
-
+Como cliente, quero poder visiualizar o andamento do processo seletivo.
+Teste de validação
 Dado a candidatura da vaga quando a confirmada a candidatura então sera possivel visualizar o andamento do processo seletivo. 
 ---------------------------------------------------
 
-<USUARIO 3>
-
+                          <USUARIO 3>
 Como cliente, quero realizar meu cadastro na plataforma de formas diferentes.
-
-dado acesso a plataforma quando quiser realizar meu cadastro então estarão disponivelas as opçóes de e-mail, cpf, telefone. 
+Teste de validação
+Dado acesso a plataforma quando quiser realizar meu cadastro então estarão disponivelas as opçóes de e-mail, cpf, telefone. 
 
 ---------------------------------------------------
 
-<USUARIO 4>
-
+                          <USUARIO 4>
 Como cliente, quero poder realizar meu login de forma rapida e pratica. 
-
-dado acesso a plataforma quando quiser realizar meu login então poderei realizar meu acesso com o Google.
+Teste de validação
+Dado acesso a plataforma quando quiser realizar meu login então poderei realizar meu acesso com o Google.
 
 
 
 ---------------------------------------------------
 
-<USUARIO 5>
-
+                          <USUARIO 5>
 Como um visitante do site, eu quero ler as perguntas frequentes para obter respostas rápidas.
-
-Dado o acesso a plataforma quando tiver alguma duvida então esta disponivel a aba FAQ
+Teste de validação
+Dado o acesso a plataforma quando tiver alguma duvida então esta disponivel a aba FAQ.
